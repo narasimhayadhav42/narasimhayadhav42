@@ -5,20 +5,20 @@
 
 💻 Aspiring Software Developer | Data Engineering Enthusiast | Embedded Systems Learner
 
-I'm an engineering undergraduate passionate about software development, database management, embedded systems, and building practical technology solutions.
+I'm an engineering undergraduate passionate about software development, Artificial Intelligence, database management, embedded systems, and building practical technology solutions.
 
-Currently improving my programming, problem-solving, and technical skills through hands-on projects and continuous learning.
+I enjoy learning new technologies, solving programming problems, and developing projects that solve real-world problems.
 
 ---
 
 ## 🎯 Career Interests
 
 - Software Development
-- Data Engineering
+- Artificial Intelligence and Machine Learning
+- Data Engineering and ETL Pipelines
 - SQL and Database Management
 - Embedded Systems and Hardware Development
 - Python Development
-- ETL and Data Pipelines
 
 ## 💻 Technical Skills
 
@@ -33,23 +33,30 @@ Currently improving my programming, problem-solving, and technical skills throug
 **Tools**
 - Git
 - GitHub
+- MATLAB
+- Simulink
 
 **Core Concepts**
 - Object-Oriented Programming (OOP)
 - Data Structures and Algorithms
-
-**Hardware & Embedded Systems**
-- ESP32
-- Sensors
+- Digital Electronics
 - Embedded Systems Fundamentals
 
-## 🚀 My Projects
+**Technical Areas**
+- Generative AI Fundamentals
+- Machine Learning Fundamentals
+- Power BI
+- Digital Signal Processing
+
+---
+
+## 🚀 Featured Projects
 
 ### 1. SmartCook Solutions – Automatic Whistle Counting Pressure Cooker
 
 A smart hardware-based project designed to automatically detect and count pressure cooker whistles to improve cooking consistency and convenience.
 
-🔗 [View Project on GitHub](https://github.com/narasimhayadhav42/SmartCook-Solutions)
+🔗 [View GitHub Repository](https://github.com/narasimhayadhav42/SmartCook-Solutions)
 
 ### 2. Java Class Guardian – Attendance Proxy Detection System
 
@@ -59,7 +66,9 @@ A project focused on attendance management and proxy detection using Java and SQ
 
 ### 3. Accident Detection and Alert System
 
-An embedded systems project focused on accident detection and alert notifications using ESP32, sensors, GPS, and GSM.
+An embedded systems project focused on accident detection and alert notifications using ESP32, sensors, GPS, and GSM technologies.
+
+---
 
 ## 🎓 Education
 
@@ -69,27 +78,62 @@ Kalasalingam Academy of Research and Education
 
 2023 – 2027 | CGPA: 7.8/10
 
+---
+
 ## 📜 Certifications
 
-- Zero to Hero in Python GUI Development – EasyShiksha
+### Artificial Intelligence & Machine Learning
+
+- Core Generative AI Skills – Cisco Networking Academy
+- Foundation Course on Applied Machine Learning and AI – CII / IndiaAI
+
+### Data Analytics & Business Intelligence
+
+- Power BI for Beginners – Simplilearn SkillUp
+
+### Programming & Development
+
+- Zero to Hero in Python GUI Development – EasyShiksha / HawksCode
+
+### Entrepreneurship
+
+- Ignite India – Entrepreneurship Skills – Wadhwani Foundation
+
+### Electronics & Communication
+
 - Wireless Communications OnRamp – MathWorks
 - Image Processing OnRamp – MathWorks
 
-## 📊 GitHub Profile
+---
 
-- 🔭 Working on practical hardware and software projects
-- 🌱 Learning Java, SQL, Python and Data Engineering
-- 💡 Interested in solving real-world technical problems
-- 🚀 Building projects and improving my development skills
+## 🏆 Achievements & Participation
 
-## 🤝 Connect With Me
-
-📧 Email: gollaobula42@gmail.com
-
-🔗 [LinkedIn](https://www.linkedin.com/in/golla-obula-narasimha-20a536302)
-
-💻 [GitHub](https://github.com/narasimhayadhav42)
+- Participated in Cognizant Technoverse Hackathon 2026.
+- Developed practical hardware and software projects.
+- Participated in the Ignite India initiative through SmartCook Solutions.
 
 ---
 
-⭐ **Learning | Building | Improving | Growing**
+## 📈 Currently Learning
+
+- Advanced Java and Problem Solving
+- SQL and Database Management
+- Python Development
+- Data Engineering Fundamentals
+- Artificial Intelligence and Machine Learning
+- Git and GitHub
+
+---
+
+## 🤝 Connect With Me
+
+📧 **Email:** gollaobula42@gmail.com
+
+💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/golla-obula-narasimha-20a536302)
+
+💻 **GitHub:** [narasimhayadhav42](https://github.com/narasimhayadhav42)
+
+---
+
+⭐ **Learning | Building | Innovating | Growing**
+
